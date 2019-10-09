@@ -1,0 +1,8 @@
+div.ctrl {
+    border: 1px solid black;
+}
+
+img, a {
+    width: 100px;
+    height: 100px;
+}
