@@ -8,7 +8,6 @@ public class AngularApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(AngularApplication.class, args);
-		System.out.println("teste commit");
 	}
 
 }
